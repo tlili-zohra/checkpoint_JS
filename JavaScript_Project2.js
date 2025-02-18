@@ -28,7 +28,7 @@ function Capitalize_word(str) {
 }
 console.log(Capitalize_word("zohra tlili"));
 
-//                        Array Functions:                     //
+//                                 Array Functions:                                //
 
 //Find Maximum and Minimum:
 
@@ -52,7 +52,7 @@ function filter_array(arr, condition) {
 
 console.log(filter_array([3, 2, 7, 9, -1, 0], (num) => num > 2));
 
-//                         Mathematical Functions:              //
+//                                 Mathematical Functions:                             //
 //Factorial:
 function factorial(num) {
   let fac = 1;
